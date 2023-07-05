@@ -1,0 +1,25 @@
+# Dependency directories
+/node_modules
+/dist
+
+# Environment variables
+.env
+
+# Build artifacts
+/*.js
+/*.js.map
+/*.css
+/*.css.map
+/index.html
+/favicon.ico
+
+# Testing and coverage directories
+/coverage
+/e2e
+
+# IDE and editor specific files
+/.idea
+/.vscode
+
+# Miscellaneous
+/.DS_Store

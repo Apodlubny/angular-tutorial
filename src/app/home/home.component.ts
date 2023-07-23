@@ -24,9 +24,9 @@ export class HomeComponent {
 
   housingLocation: HousingLocation = {
     id: 9999,
-    name: 'Test Home',
-    city: 'Test city',
-    state: 'ST',
+    name: 'somewhere in the world',
+    city: 'angular city',
+    state: 'ua',
     photo: `${this.baseUrl}/example-house.jpg`,
     availableUnits: 99,
     wifi: true,

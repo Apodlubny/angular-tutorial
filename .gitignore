@@ -1,1 +1,36 @@
-node_modules
+# Node.js and npm
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# Build output
+/dist/
+/tmp/
+/angular-cli-ghpages/
+
+# Environment variables
+/src/environments/environment.ts
+/src/environments/environment.prod.ts
+
+# IDE/Editor specific files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Miscellaneous
+Thumbs.db
+.DS_Store
+*.log
+*.log.*
+*.tmp
+*.bak
+*.cache
+*.project
+*.properties

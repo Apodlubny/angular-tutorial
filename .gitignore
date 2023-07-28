@@ -34,3 +34,7 @@ Thumbs.db
 *.cache
 *.project
 *.properties
+
+
+# angular
+.angular/cache/
